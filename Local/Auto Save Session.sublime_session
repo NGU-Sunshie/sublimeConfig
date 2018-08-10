@@ -1,0 +1,551 @@
+{
+	"folder_history":
+	[
+		"/C/Users/NGU-sunshine/Desktop/html"
+	],
+	"last_version": 3176,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 479.2,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"ppi",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfProfile.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfLifeCycle.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/resources/SpringSource.txt",
+				"/C/Users/NGU-sunshine/Desktop/bos-web/bos-parent/bos-web/src/main/webapp/WEB-INF/web.xml",
+				"/C/Users/NGU-sunshine/Desktop/jpaDemo/spring annotation development/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig.java",
+				"/C/Users/NGU-sunshine/Desktop/jpaDemo/spring annotation development/代码/spring-annotation/src/test/java/com/atguigu/test/IOCTest.java",
+				"/C/Users/NGU-sunshine/Desktop/jpaDemo/.git/hooks/post-update.sample",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConifgOfAutowired.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfAOP.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java",
+				"/C/Users/NGU-sunshine/Desktop/Software/programmingSoftWare/idea/IDEA破解文档 2.txt",
+				"/C/Program Files/JetBrains/PyCharm 2018.2/bin/pycharm.exe.vmoptions",
+				"/C/Program Files/JetBrains/IntelliJ IDEA 2018.2/bin/idea64.exe.vmoptions",
+				"/C/Program Files/JetBrains/PyCharm 2018.2/bin/pycharm64.exe.vmoptions",
+				"/C/Program Files/JetBrains/IntelliJ IDEA 2018.2/bin/idea.exe.vmoptions",
+				"/C/software/apache-maven-3.5.3/conf/settings.xml"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 639.2
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"te",
+						"text-decoration\tproperty"
+					],
+					[
+						"c",
+						"class\tAttr"
+					],
+					[
+						"bacc",
+						"background-color\tproperty"
+					],
+					[
+						"m",
+						"margin-right\tproperty"
+					],
+					[
+						"baco",
+						"background-color\tproperty"
+					],
+					[
+						"margint",
+						"margin-left\tproperty"
+					],
+					[
+						"b",
+						"inline-block\tdisplay"
+					],
+					[
+						"fon",
+						"font-family\tproperty"
+					],
+					[
+						"s",
+						"solid"
+					],
+					[
+						"bo",
+						"border\tproperty"
+					],
+					[
+						"lis",
+						"list-style\tproperty"
+					],
+					[
+						"tex",
+						"text-align\tproperty"
+					],
+					[
+						"w",
+						"width\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "https://bdcdngdct.inter.71edge.com/videos/v0/20180803/cc/0c/91887f32246407e7433b91620fd7a9b3.f4v?key=0994083421c567de261111d567b64a39b&dis_k=dd7f7cd37b13f7d779e475248301fc49&dis_t=1533568683&dis_dz=CT-GuangDong&dis_st=42&src=iqiyi.com&uuid=b702589a-5b6866ab-68&rn=1533568682479&qd_tm=1533568094529&qd_tvid=1214992500&qd_vipdyn=0&qd_k=d8381b83f13d6efec2922e3e0a10c87b&cross-domain=1&qd_aid=206556801&qd_uid=&qd_stert=1480174&qypid=1214992500_02020031010000000000&qd_p=b702589a&qd_src=01010031010000000000&qd_index=5&qd_vip=0&qyid=223459a3615396268d397fbbb597e1d8&pv=0.1&qd_vipres=0\n\n\nRequest URL: https://data.video.iqiyi.com/videos/v0/20180803/cc/0c/29f07d33e30676dc333e248a5c78f7df.f4v?qd_tvid=1214992500&qd_vipres=0&qd_index=3&qd_aid=206556801&qd_stert=740087&qd_scc=6ee8ab585ca7c4a0ba8905387c8ba78e&qd_sc=bc00fdd9afc85150fba4e670de16c8de&qd_p=b702589a&qd_k=d8381b83f13d6efec2922e3e0a10c87b&qd_src=01010031010000000000&qd_vipdyn=0&qd_uid=&qd_tm=1533568094529&qd_vip=0&cross-domain=1&qyid=223459a3615396268d397fbbb597e1d8&qypid=1214992500_02020031010000000000&qypid=1214992500_02020031010000000000&rn=1533568408135&pv=0.1&cross-domain=1&pri_idc=kingsoft_ct\n\n\n\nRequest URL: https://data.video.iqiyi.com/videos/v0/20180803/cc/0c/780e5d352c52b56bb641b88c461ce1f2.f4v?qd_tvid=1214992500&qd_vipres=0&qd_index=2&qd_aid=206556801&qd_stert=370067&qd_scc=631e062974b5830f5bb381c897c987a7&qd_sc=bc00fdd9afc85150fba4e670de16c8de&qd_p=b702589a&qd_k=d8381b83f13d6efec2922e3e0a10c87b&qd_src=01010031010000000000&qd_vipdyn=0&qd_uid=&qd_tm=1533568094529&qd_vip=0&cross-domain=1&qyid=223459a3615396268d397fbbb597e1d8&qypid=1214992500_02020031010000000000&qypid=1214992500_02020031010000000000&rn=1533568265173&pv=0.1&cross-domain=1&pri_idc=kingsoft_ct\n\n\nhttps://bdcdngdct.inter.71edge.com/videos/v0/20180803/c2/e4/f00fdaa931d91b665a84da40873b53b2.f4v?key=02f640380ee06544383900a294fce046e&dis_k=8da0d05d14c23ba93c8f43bb42b65f4d&dis_t=1533568994&dis_dz=CT-GuangDong&dis_st=42&src=iqiyi.com&uuid=b702589a-5b6867e2-66&rn=1533568992921&qd_tm=1533568992926&qd_tvid=1214992700&qd_vipdyn=0&qd_k=83518f53eb86f7cca399cab56f1476ba&cross-domain=1&qd_aid=206556801&qd_uid=&qd_stert=0&qypid=1214992700_02020031010000000000&qd_p=b702589a&qd_src=01010031010000000000&qd_index=1&qd_vip=0&qyid=223459a3615396268d397fbbb597e1d8&pv=0.1&qd_vipres=0\n\n\nRequest URL: https://data.video.iqiyi.com/videos/v0/20180803/c2/e4/23920ab97c1277ee98296336edbfee49.f4v?qd_tvid=1214992700&qd_vipres=0&qd_index=2&qd_aid=206556801&qd_stert=370067&qd_scc=07a40c93ffb698e92434bb642a30383d&qd_sc=a9bba82e80453a64f74db7ab25c12722&qd_p=b702589a&qd_k=83518f53eb86f7cca399cab56f1476ba&qd_src=01010031010000000000&qd_vipdyn=0&qd_uid=&qd_tm=1533568992926&qd_vip=0&cross-domain=1&qyid=223459a3615396268d397fbbb597e1d8&qypid=1214992700_02020031010000000000&qypid=1214992700_02020031010000000000&rn=1533569126559&pv=0.1&cross-domain=1\n\n\nhttps://bdcdngdct.inter.71edge.com/videos/v0/20180803/c2/e4/23066c7b7a2740acf318eaccfd2000c7.f4v?key=08327c7bb398a51edc4104367cb6dad3f&dis_k=d07d9a96843819ee78d1d1dc3d7a2997&dis_t=1533569426&dis_dz=CT-GuangDong&dis_st=42&src=iqiyi.com&uuid=b702589a-5b686992-66&rn=1533569424879&qd_tm=1533568992926&qd_tvid=1214992700&qd_vipdyn=0&qd_k=83518f53eb86f7cca399cab56f1476ba&cross-domain=1&qd_aid=206556801&qd_uid=&qd_stert=1480174&qypid=1214992700_02020031010000000000&qd_p=b702589a&qd_src=01010031010000000000&qd_index=5&qd_vip=0&qyid=223459a3615396268d397fbbb597e1d8&pv=0.1&qd_vipres=0\n\n\nRequest URL: https://data.video.iqiyi.com/videos/v0/20180803/c2/e4/5ecfe4207fb23b5266d06fb983a5d0be.f4v?qd_tvid=1214992700&qd_vipres=0&qd_index=3&qd_aid=206556801&qd_stert=740087&qd_scc=bf2c7d19d5369615de64c7369cb52528&qd_sc=a9bba82e80453a64f74db7ab25c12722&qd_p=b702589a&qd_k=83518f53eb86f7cca399cab56f1476ba&qd_src=01010031010000000000&qd_vipdyn=0&qd_uid=&qd_tm=1533568992926&qd_vip=0&cross-domain=1&qyid=223459a3615396268d397fbbb597e1d8&qypid=1214992700_02020031010000000000&qypid=1214992700_02020031010000000000&rn=1533569264974&pv=0.1&cross-domain=1\n\nRequest URL: https://data.video.iqiyi.com/videos/v0/20180803/c2/e4/23920ab97c1277ee98296336edbfee49.f4v?qd_tvid=1214992700&qd_vipres=0&qd_index=2&qd_aid=206556801&qd_stert=370067&qd_scc=07a40c93ffb698e92434bb642a30383d&qd_sc=a9bba82e80453a64f74db7ab25c12722&qd_p=b702589a&qd_k=83518f53eb86f7cca399cab56f1476ba&qd_src=01010031010000000000&qd_vipdyn=0&qd_uid=&qd_tm=1533568992926&qd_vip=0&cross-domain=1&qyid=223459a3615396268d397fbbb597e1d8&qypid=1214992700_02020031010000000000&qypid=1214992700_02020031010000000000&rn=1533569126559&pv=0.1&cross-domain=1\n",
+					"settings":
+					{
+						"buffer_size": 4566,
+						"line_ending": "Windows",
+						"name": "https://bdcdngdct.inter.71edge.com/videos/v0/20180"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Document</title>\n\t<style type=\"text/css\">\n\t\t.menu{\n\t\t\tpadding: 0;\n\t\t\twidth: 694px;\n\t\t\theight: 50px;\n\t\t\tlist-style: none;\n\t\t\tmargin:50px auto 0px;\n\t\t\tfont-size: 0px;\n\t\t}\n\t\t.menu li{\n\t\t\tfont-size: 16px;\n\t\t\tdisplay: inline-block;\n\t\t\twidth: 98px;\n\t\t\theight: 48px;\n\t\t\tborder: 1px solid gold\n\t\t\tmargin-right: -1px;\n\t\t\tline-height: 48px;\n\t\t\ttext-align: center;\n\t\t}\n\t\t.menu li a{\n\t\t\tcolor: pink;\n\t\t\tfont-family: 'Microsoft Yahei';\n\t\t\ttext-decoration: none;\n\t\t}\n\t\t.menu a:hover{\n\t\t\tcolor: red;\n\t\t}\n\t\t.menu li:hover{\n\t\t\tbackground-color: orange;\n\t\t}\n\t</style>\n</head>\n<body>\n\t<ui>\n\t\t<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>\n\t\t<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>\n\t\t<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>\n\t\t<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>\n\t\t<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>\n\t\t<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>\n\t\t<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>\n\t\t<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>\n\t</ui>\n\t<ul class=\"menu\">\n\t\t<li><a href=\"#\">首页</a></li>\n\t\t<li><a href=\"#\">公司简介</a></li>\n\t\t<li><a href=\"#\">解决方案</a></li>\n\t\t<li><a href=\"#\">公司新闻</a></li>\n\t\t<li><a href=\"#\">行业动态</a></li>\n\t\t<li><a href=\"#\">招贤纳才</a></li>\n\t\t<li><a href=\"#\">联系我们</a></li>\n\n\t</ul>\n</body>\n</html>",
+					"file": "/C/Users/NGU-sunshine/Desktop/html/2.html",
+					"file_size": 994,
+					"file_write_time": 131782042837475300,
+					"settings":
+					{
+						"buffer_size": 1386,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"ppi",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/NGU-sunshine/Desktop/html"
+			],
+			"file_history":
+			[
+				"/C/Users/NGU-sunshine/Desktop/html/1.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/resources/SpringSource.txt",
+				"/C/Users/NGU-sunshine/Desktop/html/中文名字.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/3/003css盒子模型.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/3/010内联元素.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/010css选择器.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/013内嵌框架.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/4/005定位-相对定位.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/004表单.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/008样式应用-外链式.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/003表格布局.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/001列表.html",
+				"/C/Users/NGU-sunshine/Desktop/html/2.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfProfile.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfLifeCycle.java",
+				"/C/Users/NGU-sunshine/Desktop/bos-web/bos-parent/bos-web/src/main/webapp/WEB-INF/web.xml",
+				"/C/Users/NGU-sunshine/Desktop/jpaDemo/spring annotation development/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig.java",
+				"/C/Users/NGU-sunshine/Desktop/jpaDemo/spring annotation development/代码/spring-annotation/src/test/java/com/atguigu/test/IOCTest.java",
+				"/C/Users/NGU-sunshine/Desktop/jpaDemo/.git/hooks/post-update.sample",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConifgOfAutowired.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfAOP.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig.java",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig2.java",
+				"/C/Users/NGU-sunshine/Desktop/Software/programmingSoftWare/idea/IDEA破解文档 2.txt",
+				"/C/Program Files/JetBrains/PyCharm 2018.2/bin/pycharm.exe.vmoptions",
+				"/C/Program Files/JetBrains/IntelliJ IDEA 2018.2/bin/idea64.exe.vmoptions",
+				"/C/Program Files/JetBrains/PyCharm 2018.2/bin/pycharm64.exe.vmoptions",
+				"/C/Program Files/JetBrains/IntelliJ IDEA 2018.2/bin/idea.exe.vmoptions",
+				"/C/software/apache-maven-3.5.3/conf/settings.xml"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"f=\"",
+					"><",
+					"联系我们",
+					"<li>",
+					"li>",
+					"i>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\NGU-sunshine\\Desktop\\html"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4566,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4566,
+										4566
+									]
+								],
+								"settings":
+								{
+									"auto_name": "https://bdcdngdct.inter.71edge.com/videos/v0/20180",
+									"is_init_dirty_state": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 741.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/NGU-sunshine/Desktop/html/2.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1386,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										937,
+										937
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"is_init_dirty_state": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 741.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 40.8
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,563,26,26,680",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"2",
+						"2.html"
+					],
+					[
+						"1",
+						"1.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
