@@ -4,7 +4,7 @@
 		"/C/Users/NGU-sunshine/Desktop/html"
 	],
 	"last_version": 3176,
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
@@ -15,6 +15,58 @@
 			{
 				"selected_items":
 				[
+					[
+						"te",
+						"text-decoration\tproperty"
+					],
+					[
+						"c",
+						"class\tAttr"
+					],
+					[
+						"bacc",
+						"background-color\tproperty"
+					],
+					[
+						"m",
+						"margin-right\tproperty"
+					],
+					[
+						"baco",
+						"background-color\tproperty"
+					],
+					[
+						"margint",
+						"margin-left\tproperty"
+					],
+					[
+						"b",
+						"inline-block\tdisplay"
+					],
+					[
+						"fon",
+						"font-family\tproperty"
+					],
+					[
+						"s",
+						"solid"
+					],
+					[
+						"bo",
+						"border\tproperty"
+					],
+					[
+						"lis",
+						"list-style\tproperty"
+					],
+					[
+						"tex",
+						"text-align\tproperty"
+					],
+					[
+						"w",
+						"width\tproperty"
+					]
 				]
 			},
 			"build_system_choices":
@@ -29,6 +81,14 @@
 				[
 					[
 						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"pi",
 						"Package Control: Install Package"
 					],
 					[
@@ -60,9 +120,21 @@
 			},
 			"file_history":
 			[
+				"/C/Users/NGU-sunshine/Desktop/html/1.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/resources/SpringSource.txt",
+				"/C/Users/NGU-sunshine/Desktop/html/中文名字.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/3/003css盒子模型.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/3/010内联元素.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/010css选择器.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/013内嵌框架.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/4/005定位-相对定位.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/004表单.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/008样式应用-外链式.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/003表格布局.html",
+				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/001列表.html",
+				"/C/Users/NGU-sunshine/Desktop/html/2.html",
 				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfProfile.java",
 				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfLifeCycle.java",
-				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/resources/SpringSource.txt",
 				"/C/Users/NGU-sunshine/Desktop/bos-web/bos-parent/bos-web/src/main/webapp/WEB-INF/web.xml",
 				"/C/Users/NGU-sunshine/Desktop/jpaDemo/spring annotation development/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfig.java",
 				"/C/Users/NGU-sunshine/Desktop/jpaDemo/spring annotation development/代码/spring-annotation/src/test/java/com/atguigu/test/IOCTest.java",
@@ -80,7 +152,7 @@
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -94,6 +166,12 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"f=\"",
+					"><",
+					"联系我们",
+					"<li>",
+					"li>",
+					"i>"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -110,11 +188,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 28.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 40.8
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -124,7 +202,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -133,6 +211,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"2",
+						"2.html"
+					],
+					[
+						"1",
+						"1.html"
+					]
 				],
 				"width": 0.0
 			},
@@ -173,6 +259,18 @@
 			{
 				"selected_items":
 				[
+					[
+						"he",
+						"line-height\tproperty"
+					],
+					[
+						"teal",
+						"text-align\tproperty"
+					],
+					[
+						"me",
+						"menu2"
+					],
 					[
 						"te",
 						"text-decoration\tproperty"
@@ -239,13 +337,11 @@
 					}
 				},
 				{
-					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Document</title>\n\t<style type=\"text/css\">\n\t\t.menu{\n\t\t\tpadding: 0;\n\t\t\twidth: 694px;\n\t\t\theight: 50px;\n\t\t\tlist-style: none;\n\t\t\tmargin:50px auto 0px;\n\t\t\tfont-size: 0px;\n\t\t}\n\t\t.menu li{\n\t\t\tfont-size: 16px;\n\t\t\tdisplay: inline-block;\n\t\t\twidth: 98px;\n\t\t\theight: 48px;\n\t\t\tborder: 1px solid gold;\n\t\t\tmargin-right: -1px;\n\t\t\tline-height: 48px;\n\t\t\ttext-align: center;\n\t\t}\n\t\t.menu li a{\n\t\t\tcolor: pink;\n\t\t\tfont-family: 'Microsoft Yahei';\n\t\t\ttext-decoration: none;\n\t\t}\n\t\t.menu a:hover{\n\t\t\tcolor: red;\n\t\t}\n\t\t.menu li:hover{\n\t\t\tbackground-color: orange;\n\t\t}\n\t</style>\n</head>\n<body>\n\t<ul class=\"menu\">\n\t\t<li><a href=\"\">首页</a></li>\n\t\t<li><a href=\"\">公司简介</a></li>\n\t\t<li><a href=\"\">解决方案</a></li>\n\t\t<li><a href=\"\">公司新闻</a></li>\n\t\t<li><a href=\"\">行业动态</a></li>\n\t\t<li><a href=\"\">招贤纳才</a></li>\n\t\t<li><a href=\"\">联系我们</a></li>\n\t</ul>\n</body>\n</html>",
 					"file": "/C/Users/NGU-sunshine/Desktop/html/2.html",
-					"file_size": 994,
-					"file_write_time": 131782042837475300,
 					"settings":
 					{
-						"buffer_size": 894,
+						"buffer_size": 1623,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
@@ -262,15 +358,15 @@
 				"selected_items":
 				[
 					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
 						"pc",
 						"Package Control: Install Package"
 					],
 					[
 						"pi",
-						"Package Control: Install Package"
-					],
-					[
-						"pci",
 						"Package Control: Install Package"
 					],
 					[
@@ -306,6 +402,9 @@
 			],
 			"file_history":
 			[
+				"/C/Users/NGU-sunshine/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/Users/NGU-sunshine/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/NGU-sunshine/Desktop/html/1.html",
 				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/resources/SpringSource.txt",
 				"/C/Users/NGU-sunshine/Desktop/html/中文名字.html",
 				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/3/003css盒子模型.html",
@@ -317,7 +416,6 @@
 				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/008样式应用-外链式.html",
 				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/003表格布局.html",
 				"/C/Users/NGU-sunshine/Desktop/Study/python/第5章 前端/资料/代码/2/001列表.html",
-				"/C/Users/NGU-sunshine/Desktop/html/1.html",
 				"/C/Users/NGU-sunshine/Desktop/html/2.html",
 				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfProfile.java",
 				"/C/Users/NGU-sunshine/Desktop/Study/尚硅谷/Spring注解驱动开发/课件/代码/spring-annotation/src/main/java/com/atguigu/config/MainConfigOfLifeCycle.java",
@@ -338,7 +436,7 @@
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 96.8
 			},
 			"find_in_files":
 			{
@@ -352,6 +450,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"<div class=\"item\">\n\t\t\t<a href=\"#\">this is a</a>\n\t\t</div>",
+					"f=\"",
+					"><",
 					"联系我们",
 					"<li>",
 					"li>",
@@ -417,15 +518,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 894,
+								"buffer_size": 1623,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										237,
-										237
+										793,
+										793
 									]
 								],
 								"settings":
@@ -436,7 +537,7 @@
 									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 975.2,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -447,7 +548,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 34.0
 			},
 			"input":
 			{
@@ -481,11 +582,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,563,26,26,680",
+			"position": "0,2,3,-32000,-32000,-1,-1,563,26,26,680",
 			"project": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 64.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -494,6 +595,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"2",
+						"2.html"
+					],
+					[
+						"1",
+						"1.html"
+					]
 				],
 				"width": 0.0
 			},
